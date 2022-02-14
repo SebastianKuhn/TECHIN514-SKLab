@@ -1,8 +1,7 @@
 # TECHIN514-SKLab
 
 
-## Output of GIX_envtest.py in the environment I adapted from the .yaml file found in manidarla
-/ GIXdemo (GIX514Demo)
+## Output of GIX_envtest.py in the environment I adapted from the .yaml file found in 'manidarla/GIXdemo' (GIX514Demo)
 
 ```
 (GIX514Demo) C:\Users\stlp\GIXdemo>python GIX_envtest.py
